@@ -12,7 +12,7 @@ const Navbar = () => {
                     <li><a href="#">Education</a></li>
                     <li><a href="#">Community</a></li>
                     <li><a href="#">About US</a></li>
-                    <li ><a href="#" className='btn'>Sign In</a></li>
+                    <li ><button className='btn'>Sign In</button></li>
                 </ul>
             </div>
         </nav>
